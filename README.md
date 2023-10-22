@@ -31,7 +31,7 @@ Todas as entradas são armazenas em um banco de dados em MySQL, cujo [*schema* e
 
 # SAÍDAS 📉
 
-Tecnologias utilizadas: Excel, PowerBI, Python
+Tecnologias utilizadas: **Excel**; **PowerBI**; **Python**. 
 
 A lógica do registro das informações de saídas é a seguinte:
 
@@ -67,3 +67,7 @@ Automático - Informações preenchidas automaticamente pela Macro do Excel dese
 Lista Suspensa - Informações pré-definidas, como mostrado anteriormente;
 
 Descritivo - Informações adicionadas manualmente, apenas com restrição de formato e sem pontuações específicas do Português BR.
+
+<img src="images\Entrada_dados.png" width="800">
+
+A planilha com a macro pode ser baixado [clicando aqui](https://github.com/matthewz5/controle_financeiro/blob/main/planilha_macro_dados_entrada.xlsm).
