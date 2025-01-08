@@ -1,0 +1,3 @@
+CREDENTIALS_PATH = r'path'
+
+SPREADSHEET_ID = 'id_code'
